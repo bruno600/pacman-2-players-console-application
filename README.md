@@ -12,4 +12,4 @@ para jogar solo apenas inicie o executavel ou por linha de comando sem argumento
 
 ## Criar novo mapa
 o arquivo [mapa.txt](https://com) é o mapa solo e o arquivo [mapamulti.txt]() é o mapa em multiplayer
-- a primeira linha do arquivo contém 2 números, o 1° indica quantas linhas o mapa vai ter e o 2° indica quantas colunas.
+- a primeira linha do arquivo contém 2 números, a 1° indica quantas linhas o mapa vai ter e a 2° indica quantas colunas.
