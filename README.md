@@ -11,5 +11,5 @@ Um jogo estilo pacman em console, feito na linguagem C utilizando Sockets para c
 para jogar solo apenas inicie o executavel ou por linha de comando sem argumentos.
 
 ## Criar novo mapa
-o arquivo [mapa.txt](https://com) é o mapa solo e o arquivo [mapamulti.txt]() é o mapa em multiplayer
+o arquivo [mapa.txt]([https://com](https://github.com/bruno600/pacman-2-players-console-application/blob/main/mapa.txt)) é o mapa solo e o arquivo [mapamulti.txt](https://github.com/bruno600/pacman-2-players-console-application/blob/main/mapamulti.txt) é o mapa em multiplayer
 - a primeira linha do arquivo contém 2 números, a 1° indica quantas linhas o mapa vai ter e a 2° indica quantas colunas.
